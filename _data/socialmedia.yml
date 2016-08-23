@@ -1,5 +1,5 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/chtien18
   class: icon-github
   title: Code und mehr...
 
@@ -9,7 +9,7 @@
   title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/chtien18
   class: icon-twitter
   title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
@@ -23,10 +23,10 @@
   class: icon-googleplus
   title: "YouTube Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+ - name: Facebook
+   url: https://www.facebook.com/kelly.thu.9/media_set?set=a.1269032873109226.1073741848.100000075767219&type=3&pnref=story
+   class: icon-facebook
+   title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
