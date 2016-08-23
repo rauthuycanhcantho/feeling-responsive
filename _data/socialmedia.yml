@@ -17,10 +17,10 @@
 
 
 
- - name: Facebook
-   url: https://www.facebook.com/kelly.thu.9/media_set?set=a.1269032873109226.1073741848.100000075767219&type=3&pnref=story
-   class: icon-facebook
-   title: ""
+# - name: Facebook
+ #  url: https://www.facebook.com/kelly.thu.9/media_set?set=a.1269032873109226.1073741848.100000075767219&type=3&pnref=story
+#   class: icon-facebook
+#   title: ""
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
