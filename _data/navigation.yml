@@ -1,4 +1,4 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
@@ -6,7 +6,7 @@
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Sản Phẩm"
   url: "/design/"
   side: left
   dropdown:
